@@ -1,1 +1,3 @@
-
+What is version Contol/systems?
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools
+Main states of a file -Modified , Staged or committed, git add
